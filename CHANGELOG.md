@@ -1,5 +1,8 @@
 # Changelog
-## [Current] 1.4.0
+## [Current] 1.4.3
+### Fixed
+- [ ] Fixed a bug that caused the app to crash when system-animations are disabled
+## [Old] 1.4.0
 ### Added
 - [ ] Added Settings to the App
 - [ ] Added the ability to whitelist apps
