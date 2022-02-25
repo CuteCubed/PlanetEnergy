@@ -1,5 +1,5 @@
 # Changelog
-## [Current] 1.4.3
+## [Current] 1.4.4
 ### Fixed
 - [ ] Fixed a bug that caused the app to crash when system-animations are disabled
 ## [Old] 1.4.0
