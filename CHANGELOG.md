@@ -1,5 +1,15 @@
 # Changelog
-## [Current] 1.4.4
+## [Current] 1.4.8
+### Added
+- [ ] Added paid premium support
+- [ ] Added (alpha) root utils
+- [ ] Automatic release building
+### Fixed
+- [ ] Display overflow on smaller devices or larger content sizes
+- [ ] Ads loading even when premium is enabled
+- [ ] A crash when a service thread gets killed
+- [ ] Stability of the Service
+## [Old] 1.4.4
 ### Fixed
 - [ ] Fixed a bug that caused the app to crash when system-animations are disabled
 ## [Old] 1.4.0
