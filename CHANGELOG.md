@@ -1,10 +1,12 @@
 # Changelog
-## [Current] 1.4.8
+## [Current] 1.4.9
 ### Added
 - [ ] Added paid premium support
 - [ ] Added (alpha) root utils
 - [ ] Automatic release building
 ### Fixed
+- [ ] The main screen is now scrollable
+- [ ] Purchases are now acknowledged
 - [ ] Display overflow on smaller devices or larger content sizes
 - [ ] Ads loading even when premium is enabled
 - [ ] A crash when a service thread gets killed
