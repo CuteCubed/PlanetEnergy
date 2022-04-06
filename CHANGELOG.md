@@ -1,4 +1,20 @@
 # Changelog
+## [Alpha] 1.5.1
+### Added
+- [ ] Added Utilities 
+- [ ] Added Root Util: Process Manager
+- [ ] Added Root Util: Charge Controller
+- [ ] Added General Util: Battery Information
+- [ ] Added General Util: Charge Reminder
+- [ ] Added General Util: Sleep Timer
+- [ ] Added Root Shell and Normal Shell Support
+### Fixed
+- [ ] Value Bugs of Configurations
+- [ ] A crash when the device starts using the wrong android version
+- [ ] Reworked the entire Notification System
+- [ ] Reworked the Utility System
+- [ ] Notification Channel now properly working
+- [ ] Stability of the Service
 ## [Current] 1.4.9
 ### Added
 - [ ] Added paid premium support
