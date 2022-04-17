@@ -1,5 +1,5 @@
 # Changelog
-## [Current] 1.5.4
+## [Current] 1.5.4 | Into Darkness👨‍🚀
 ### Added
 - [ ] Added Utilities 
 - [ ] Added Root Util: Process Manager
@@ -32,7 +32,7 @@
 ## [Old] 1.4.4
 ### Fixed
 - [ ] Fixed a bug that caused the app to crash when system-animations are disabled
-## [Old] 1.4.0
+## [Old] 1.4.0 | Exploring Nebula🌌
 ### Added
 - [ ] Added Settings to the App
 - [ ] Added the ability to whitelist apps
