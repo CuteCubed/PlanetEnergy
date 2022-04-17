@@ -56,8 +56,6 @@
 - [ ] Fixed a bug that caused the app to crash when restarting the device without the service enabled
 - [ ] Fixed a bug that caused the app to crash for older devices
 - [ ] Disabled and lowered the volume of advertisements
-## [Unreleased]
-- [ ] Utilities are now available in the [Utilities](/utilities) tab.
 ## [Old] 1.3.0
 ### Added
 - [ ] Added Statistics
