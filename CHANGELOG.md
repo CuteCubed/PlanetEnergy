@@ -1,5 +1,16 @@
 # Changelog
-## [Current] 1.5.4 ⟿ Into Darkness👨‍🚀
+## [Current] 1.5.6
+### Added
+- [ ] Crashlytics implemeted
+- [ ] New security board
+- [ ] Auto Mapping of Updates
+- [ ] Performance boosts
+- [ ] Upgraded Dependencies
+### Fixed
+- [ ] Critical Notifications Update
+- [ ] Crashlytics for crash analysis
+- [ ] Fixed few crashes
+## 1.5.4 ⟿ Into Darkness👨‍🚀
 ### Added
 - [ ] Added Utilities 
 - [ ] Added Root Util: Process Manager
@@ -17,7 +28,7 @@
 - [ ] Reworked the Utility System
 - [ ] Notification Channel now properly working
 - [ ] Stability of the Service
-## [Old] 1.4.9
+## 1.4.9
 ### Added
 - [ ] Added paid premium support
 - [ ] Added (alpha) root utils
@@ -29,10 +40,10 @@
 - [ ] Ads loading even when premium is enabled
 - [ ] A crash when a service thread gets killed
 - [ ] Stability of the Service
-## [Old] 1.4.4
+## 1.4.4
 ### Fixed
 - [ ] Fixed a bug that caused the app to crash when system-animations are disabled
-## [Old] 1.4.0 ⟿ Exploring Nebula🌌
+## 1.4.0 ⟿ Exploring Nebula🌌
 ### Added
 - [ ] Added Settings to the App
 - [ ] Added the ability to whitelist apps
@@ -56,7 +67,7 @@
 - [ ] Fixed a bug that caused the app to crash when restarting the device without the service enabled
 - [ ] Fixed a bug that caused the app to crash for older devices
 - [ ] Disabled and lowered the volume of advertisements
-## [Old] 1.3.0
+## 1.3.0
 ### Added
 - [ ] Added Statistics
 - [ ] Updated to the new Satellite-UI
