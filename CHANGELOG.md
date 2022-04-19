@@ -4,11 +4,10 @@
 - [ ] Crashlytics implemeted
 - [ ] New security board
 - [ ] Auto Mapping of Updates
-- [ ] Performance boosts
 - [ ] Upgraded Dependencies
 ### Fixed
 - [ ] Critical Notifications Update
-- [ ] Crashlytics for crash analysis
+- [ ] Improved Service Performance
 - [ ] Fixed few crashes
 ## 1.5.4 ⟿ Into Darkness👨‍🚀
 ### Added
