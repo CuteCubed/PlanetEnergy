@@ -1,5 +1,14 @@
 # Changelog
-## [Current] 1.5.6
+## [Current] 1.5.7
+### Added
+- [ ] Rating inside the App
+### Fixed
+- [ ] Fixed Crashes
+- [ ] Cleaned Layouts
+- [ ] Added Landscape Mode
+- [ ] Cleaned the Home and Statistics Activity
+- [ ] Fixed Feature
+## 1.5.6
 ### Added
 - [ ] Crashlytics implemeted
 - [ ] New security board
