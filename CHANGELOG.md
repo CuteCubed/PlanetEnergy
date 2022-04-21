@@ -1,7 +1,7 @@
 # Changelog
 ## [Current] 1.5.7
 ### Added
-- [ ] Rating inside the App
+- [ ] Ratings right inside the App!
 ### Fixed
 - [ ] Fixed Crashes
 - [ ] Cleaned Layouts
