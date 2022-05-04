@@ -1,4 +1,9 @@
 # Changelog
+## [Current] 1.5.9
+### Added
+- [ ] Utilities now have categories.
+### Fixed
+- [ ] Fixed Crashes
 ## [Current] 1.5.7
 ### Added
 - [ ] Ratings right inside the App!
