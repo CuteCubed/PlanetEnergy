@@ -4,7 +4,7 @@
 - [ ] Utilities now have categories.
 ### Fixed
 - [ ] Fixed Crashes
-## [Current] 1.5.7
+## 1.5.7
 ### Added
 - [ ] Ratings right inside the App!
 ### Fixed
