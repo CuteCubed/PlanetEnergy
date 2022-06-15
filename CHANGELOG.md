@@ -8,6 +8,7 @@
 - [ ] Logger / Dev Console
 - [ ] Faster Start Times
 - [ ] Quick Shortcut for the Sleep Timer
+- [ ] Workflow Actions
 ### Fixed
 - [ ] Fixed Crashes
 - [ ] Better understandable Text
