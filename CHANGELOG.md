@@ -1,5 +1,5 @@
-# Changelo
-g## [Current] 1.5.10
+# Planet Energy Changelog
+## [Current] 1.5.10
 ### Added
 - [ ] Permission Manager
 - [ ] Root Guide
