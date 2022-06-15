@@ -6,7 +6,6 @@ name: Copy
 on:
   push:
     branches: [ master ]
-    paths: 'CHANGELOG.md'
 
 jobs:
   build:
