@@ -1,19 +1,10 @@
-# This is a basic workflow to help you get started with Actions
-
-name: Copy 
-
-# Controls when the workflow will run
-on:
-  push:
-    branches: [ master ]
-
+name: CopyCat
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
-
       - name: Copy file
         uses: canastro/copy-action@0.0.2
         with:
