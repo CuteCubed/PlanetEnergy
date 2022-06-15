@@ -6,7 +6,7 @@ name: Copy
 on:
   push:
     branches: [ master ]
-    paths: '*.md'
+    paths: './*.md'
 
   workflow_dispatch:
 
