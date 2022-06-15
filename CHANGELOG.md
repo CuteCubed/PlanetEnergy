@@ -1,5 +1,20 @@
-# Changelog
-## [Current] 1.5.9
+# Changelo
+g## [Current] 1.5.10
+### Added
+- [ ] Permission Manager
+- [ ] Root Guide
+- [ ] Permission Overlay
+- [ ] ADB Based Classes (unreleased)
+- [ ] Logger / Dev Console
+- [ ] Faster Start Times
+- [ ] Quick Shortcut for the Sleep Timer
+### Fixed
+- [ ] Fixed Crashes
+- [ ] Better understandable Text
+- [ ] Permission System
+### Unsolved Problems
+- [ ] Android 12 Boot-Restrictions?
+## 1.5.9
 ### Added
 - [ ] Utilities now have categories.
 ### Fixed
