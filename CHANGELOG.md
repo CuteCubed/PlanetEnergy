@@ -1,5 +1,15 @@
 # Planet Energy Changelog
-## [Current] 1.5.10
+## [Current] 1.5.11
+### Added
+- [ ] Developer Mode
+- [ ] New Billing API
+### Fixed
+- [ ] Cleaned Code
+- [ ] Purchase API
+- [ ] Crash in SleepTimer
+### Unsolved Problems
+- [ ] Android 12 Boot-Restrictions?
+## 1.5.10
 ### Added
 - [ ] Permission Manager
 - [ ] Root Guide
