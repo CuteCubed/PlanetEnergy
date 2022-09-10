@@ -1,5 +1,9 @@
 # Planet Energy Changelog
-## [Current] 1.5.11
+## [Current] 1.5.12
+### Added
+- [ ] Purchase Testing
+- [ ] ADB Commands Backbone
+## 1.5.11
 ### Added
 - [ ] Developer Mode
 - [ ] New Billing API
