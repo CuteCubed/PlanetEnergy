@@ -1,5 +1,5 @@
 # Planet Energy Changelog
-## [Current] 1.5.12
+## [Current] 1.5.13
 ### Added
 - [ ] Purchase Testing
 - [ ] ADB Commands Backbone
