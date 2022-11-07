@@ -1,8 +1,10 @@
 # Planet Energy Changelog
-## [Current] 1.6.4
+## [Current] 1.6.6
 ### Added
 - [ ] Discord Link
 - [ ] Bigger Updates following in 2.0
+### Fixed
+- [ ] Crash avoided
 ## 1.5.13
 ### Added
 - [ ] Purchase Testing
